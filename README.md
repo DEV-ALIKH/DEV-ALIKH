@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @DEV-ALIKH
-- 👀 I’m interested in ... WEB DEV BACK_END LARAVEL JS JAVA
-- 🌱 I’m currently learning ... ORACLE APEX APPLICATION AND SYSTEM design ANALYSIS
-- 💞️ I’m looking to collaborate on ... 
-- 📫 How to reach me ...
+- 👀 I’m interested in ... WEB DEV BACK_END LARAVEL JavaScript
+- 🌱 I’m currently learning ... ORACLE APEX APPLICATION AND ORACLE Database
+- 💞️  
+- 📫 How to reach me ...GMAIL: devalikh68@gmail.com
+-                     ...INSTAGRAM:us.hightvoltag
 
 <!---
 DEV-ALIKH/DEV-ALIKH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
